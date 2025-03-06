@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Engineering student** 
 - 👨‍💻 **B.Tech in Computer Engineering** @ Madhuben & Bhanubhai Patel Institute of Technology (2022 - 2026)
 - 💡 Passionate about **AI, Machine Learning, LLMs, and Backend Development**
 - 🛠️ Skilled in **Python, JavaScript, TypeScript, Java, C++**
-- 🚀 Building **CodeTalk**: AI-powered code analysis & debugging platform ([GitHub](https://github.com/vedpatil1345/Codetalk))
-- 🌟 Aspiring **Software Engineer at Google**
+
 
 ---
 
@@ -26,15 +25,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Engineering student** 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 ---
-
-## 🚀 Projects
-### 🔹 [CodeTalk](https://github.com/vedpatil1345/Codetalk) - AI-Powered Code Analysis & Debugging Platform
-- **Built with:** React, TypeScript, Firebase, AI Models (LLaMA 3.3 70B, Gemini AI)
-- **Features:** Code generation, error analysis, voice-based coding, real-time code suggestions
-
-### 🔹 AI-powered App/Website Builder (Coming Soon)
-- **Generates full project structures** for React, Next.js, Flutter, and more
-- **Includes debugging & preview features** for generated projects
 
 ![Ved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedpatil1345&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedpatil1345&theme=tokyonight&layout=compact)
