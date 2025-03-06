@@ -2,7 +2,7 @@
 
 ### 🚀 Software Developer | AI Enthusiast | Open Source Contributor
 
-Welcome to my GitHub profile! I'm a passionate **Computer Engineering student** exploring the vast world of **Artificial Intelligence, Large Language Models, and Software Development**. I love building **AI-powered applications, developing intelligent coding platforms, and contributing to open-source projects**.
+Welcome to my GitHub profile! I'm a passionate **Computer Engineering student** exploring the vast world of **Artificial Intelligence, Large Language Models, and Software Development**. I love building **AI-powered applications and contributing to open-source projects**.
 
 ---
 
