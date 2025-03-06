@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Engineering student** 
 ## 🤝🏻 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/ved-patil-a71968250/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ved%20Patil-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:vedpatil13042005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vedpatil1345@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:vedpatil13042005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vedpatil13042005@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://github.com/vedpatil1345"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-vedpatil1345-blue?style=flat-square&logo=github"></a>
 </p>
 
